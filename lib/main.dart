@@ -38,7 +38,7 @@ class App extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                height: 10.0,
+                height: 13.0,
                 width: 150.0,
                 child: Divider(
                   color: Colors.black,
